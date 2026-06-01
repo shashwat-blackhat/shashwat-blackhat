@@ -18,8 +18,7 @@ Building tools, exploring development
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/i8pMnMWy8E/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shashwat_blackhat)
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=shashwat-blackhat&count_private=true&show_icons=true&theme=tokyonight)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shashwat-blackhat.shashwat-blackhat)
 <!--
 **shashwat-blackhat/shashwat-blackhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
