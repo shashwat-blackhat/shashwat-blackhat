@@ -26,7 +26,7 @@ Building tools, exploring development
 
 <div align="center">
 
-![GitHub Stats](https://readmestats.999857.xyz/api?username=shashwat-blackhat&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://readmestats.999857.xyz/api/top-langs/?username=shashwat-blackhat&layout=compact&theme=dark&hide_border=true)
 
+![Top Languages](https://readmestats.999857.xyz/api/top-langs/?username=shashwat-blackhat&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://readmestats.999857.xyz/api?username=shashwat-blackhat&show_icons=true&theme=radical&hide_border=true)
 </div>
