@@ -12,7 +12,7 @@
 
 Building tools, exploring development
 
-# 🌐 Connect With Me
+ 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashwat-dwivedi-1b774737b)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/i8pMnMWy8E/)
