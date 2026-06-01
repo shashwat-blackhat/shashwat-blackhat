@@ -1,8 +1,4 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=I+am+Shashwat...;AI+Developer+%F0%9F%A4%96;Building+tools+in+the+dark+%F0%9F%96%A4;Exploring+the+depths+of+code...)](https://git.io/typing-svg)
-
-</div>
+![Snake](https://github.com/shashwat-blackhat/shashwat-blackhat/blob/output/github-contribution-grid-snake-dark.svg)
 
 ## I am Shashwat, AI developer
 
