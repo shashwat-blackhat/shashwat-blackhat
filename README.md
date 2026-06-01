@@ -22,6 +22,8 @@ Building tools, exploring development
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/i8pMnMWy8E/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shashwat_blackhat)
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shashwat-blackhat.shashwat-blackhat)
-
+#Github Stats
 ![GitHub Stats](https://readmestats.999857.xyz/api?username=shashwat-blackhat&show_icons=true&count_private=true&title_color=9945FF&text_color=00FF94&icon_color=4CC9F0&bg_color=0D0D1A&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashwat-blackhat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shashwat-blackhat.shashwat-blackhat)
