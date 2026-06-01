@@ -24,6 +24,8 @@ Building tools, exploring development
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shashwat-blackhat.shashwat-blackhat)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashwat-blackhat&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=ffffff)
+
 
 <!--
 **shashwat-blackhat/shashwat-blackhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
