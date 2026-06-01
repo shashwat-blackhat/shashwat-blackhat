@@ -25,8 +25,20 @@ Building tools, exploring development
 #Github Stats
 <div align="center">
 
-[![GitHub Stats](https://readmestats.999857.xyz/api?username=shashwat-blackhat&show_icons=true&count_private=true&title_color=9945FF&text_color=00FF94&icon_color=4CC9F0&bg_color=0D0D1A&hide_border=true&height=200)](https://github.com/shashwat-blackhat)
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashwat-blackhat&stroke=00FF94&background=0D0D1A&ring=9945FF&fire=4CC9F0&currStreakNum=00FF94&currStreakLabel=9945FF&sideNums=00FF94&sideLabels=4CC9F0&dates=00FF94&hide_border=true)](https://github.com/shashwat-blackhat)
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://readmestats.999857.xyz/api?username=shashwat-blackhat&show_icons=true&count_private=true&title_color=9945FF&text_color=00FF94&icon_color=4CC9F0&bg_color=0D0D1A&hide_border=true&width=400)
+
+</td>
+<td>
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashwat-blackhat&stroke=00FF94&background=0D0D1A&ring=9945FF&fire=4CC9F0&currStreakNum=00FF94&currStreakLabel=9945FF&sideNums=00FF94&sideLabels=4CC9F0&dates=00FF94&hide_border=true&width=400)
+
+</td>
+</tr>
+</table>
 
 </div>
 
