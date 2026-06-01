@@ -23,7 +23,11 @@ Building tools, exploring development
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shashwat_blackhat)
 
 #Github Stats
-![GitHub Stats](https://readmestats.999857.xyz/api?username=shashwat-blackhat&show_icons=true&count_private=true&title_color=9945FF&text_color=00FF94&icon_color=4CC9F0&bg_color=0D0D1A&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashwat-blackhat&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+<div align="center">
+
+[![GitHub Stats](https://readmestats.999857.xyz/api?username=shashwat-blackhat&show_icons=true&count_private=true&title_color=9945FF&text_color=00FF94&icon_color=4CC9F0&bg_color=0D0D1A&hide_border=true&height=200)](https://github.com/shashwat-blackhat)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=shashwat-blackhat&stroke=00FF94&background=0D0D1A&ring=9945FF&fire=4CC9F0&currStreakNum=00FF94&currStreakLabel=9945FF&sideNums=00FF94&sideLabels=4CC9F0&dates=00FF94&hide_border=true)](https://github.com/shashwat-blackhat)
+
+</div>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=shashwat-blackhat.shashwat-blackhat)
